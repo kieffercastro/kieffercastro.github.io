@@ -10,10 +10,10 @@ CPSC 120
 
 *Lab 3
 
-    Lab 3, it gave a really good base for the next
-    labs that we did later on in the future. The
-    lab also had some problems with it so it showed
-    that I always need to check and test my code.
+   Lab 3, it gave a really good base for the next
+   labs that we did later on in the future. The
+   lab also had some problems with it so it showed
+   that I always need to check and test my code.
 
 *Lab 7
 
